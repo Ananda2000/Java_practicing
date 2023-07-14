@@ -44,6 +44,7 @@ public class ArmstrongNumber
 		int a =Integer.parseInt(aa);
 		int count1 =isArmstrong(a);
 		System.out.println("The total numbers are --"+count1);
+		System.out.println("THIS IS ARMSTRONG NUMBER --- TESTING");
 		
 		
 	}
