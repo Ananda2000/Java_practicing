@@ -20,7 +20,7 @@ public class Thread1_scheduler extends Thread{
 		t1.start();
 		
 		t2.start();
-		}
+		
 		}
 
 }
