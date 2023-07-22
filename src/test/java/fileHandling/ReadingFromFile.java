@@ -21,6 +21,7 @@ public class ReadingFromFile
 		
 		try {
 			len = Files.lines(paths).count();
+			System.out.println("the number of lines --"+len);
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
@@ -39,7 +40,7 @@ public class ReadingFromFile
 					//System.out.println(line);
 					if(count==5)
 					{
-						System.out.println(line);	
+						System.out.println("---"+line);	
 						String [] aa = line.split(" ");
 						int leng= aa.length;
 						for(int i=0;i<=leng;i++)
