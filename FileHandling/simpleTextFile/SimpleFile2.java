@@ -8,11 +8,13 @@ public class SimpleFile2
 	{
 		File fle = new File("D:\\FileHandlingPRactice\\kumar.txt");
 		
-		System.out.println("CAN EXECUTE THE FILE---"+fle.canExecute());
+		System.out.println("CANEXECUTE() THE FILE---"+fle.canExecute());
 		
-		System.out.println("Can read the file ---"+fle.canRead());
+		System.out.println("CanRead() the file ---"+fle.canRead());
 		
-		System.out.println("get the file name -- "+fle.getName());
+		System.out.println("getName() the file name -- "+fle.getName());
+		
+		System.out.println();
 	}
 
 }

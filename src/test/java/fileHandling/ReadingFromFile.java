@@ -51,9 +51,6 @@ public class ReadingFromFile
 							}
 						}
 					}
-					
-				
-					
 				}
 				
 			} catch (FileNotFoundException e) {
