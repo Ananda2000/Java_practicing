@@ -40,6 +40,7 @@ public class Reading_XLSX_Excel_file
 			wb_sheet = xssf_wb.getSheetAt(0);
 // HERE WE USING TO DISPLAY THE TOTAL NUMBER OF ROWS IN SHEET..
 			int total_rownumber = wb_sheet.getLastRowNum();
+			System.out.println(wb_sheet.getPhysicalNumberOfRows());
 			
 			System.out.println(1+total_rownumber+"----The total number of rows --<-");
 			
