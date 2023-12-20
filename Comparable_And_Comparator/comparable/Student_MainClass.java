@@ -12,21 +12,26 @@ public class Student_MainClass
 		al.add(new Student(23, "kumar", 22));
 		al.add(new Student(5, "ganesh", 66));
 	
-		System.out.println(al.size());
+		System.out.println("This is size "+al.size());
 		
 		System.out.println("This is before sorting...");
-		for (Student student : al) 
-		{
-			System.out.println(student.getAge());
-		}
 		
+		System.out.println(al.toString());
 		Collections.sort(al);
+		System.out.println("This is after sorting by age ---");
+
+		int sizze = al.size();
+		System.out.println(sizze);
 		
-		System.out.println("This is after collection...");
+		System.out.println(al.toString());
+		
+		
+		
+		/*System.out.println("This is after collection...");
 		for (Student student : al) 
 		{
 			System.out.println(student.getAge());
-		}
+		}*/
 	}
 
 }
