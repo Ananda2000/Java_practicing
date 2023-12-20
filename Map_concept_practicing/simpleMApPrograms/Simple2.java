@@ -15,7 +15,7 @@ public class Simple2
 	{
 		Map<String, Integer> mapp1 = new HashMap<String, Integer>();
 		
-		String [] sttt = {"hari","soma","ananda","ananda"};
+		String [] sttt = {"ananda","hari","soma","ananda"};
 		
 		System.out.println(mapp1);
 		
