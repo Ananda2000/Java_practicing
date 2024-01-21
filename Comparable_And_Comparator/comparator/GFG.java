@@ -23,7 +23,8 @@ public class GFG
 			System.out.println(arr.get(i));
 		}
 		
-		Collections.sort(arr, new Sortbyroll());
+		//Collections.sort(arr, new Sortbyroll());
+		Collections.sort(arr, new SortByAge());
 		System.out.println(arr);
 		
 		
