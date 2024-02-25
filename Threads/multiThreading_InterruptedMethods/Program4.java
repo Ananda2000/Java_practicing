@@ -10,10 +10,13 @@ public class Program4 extends Thread
 		{
 			if(Thread.interrupted())
 			{
+				
+				System.out.println(Thread.currentThread().getName());
 				System.out.println("Thread is interrupted");
 			}
 			else
 			{
+				System.out.println(Thread.currentThread().getName());
 				System.out.println("Thread is running");
 			}
 		}
@@ -26,7 +29,7 @@ public class Program4 extends Thread
 		
 		t1.start();
 		t1.interrupt();
-		
+		System.out.println(t1.isInterrupted());
 		t2.start();
 	}
 }
