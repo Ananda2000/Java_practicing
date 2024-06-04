@@ -30,6 +30,8 @@
 	<classpathentry kind="src" path="Comparable_And_Comparator"/>
 	<classpathentry kind="src" path="conversion"/>
 	<classpathentry kind="src" path="Map_concept_practicing"/>
+	<classpathentry kind="src" path="REg_Ex"/>
+	<classpathentry kind="src" path="Inner_Classs"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
