@@ -6,7 +6,6 @@ public class Simple_array1
 	{
 		int[] arr ; // Declaring the array type as integer 'arr' --> array name.
 		arr = new int [5]; // Here we initializing array size of 5...
-		
 		// BELOW INITIALIZING THE VALUE TO ARRAYS...
 		arr[0]=5;
 		arr[1]=10;
