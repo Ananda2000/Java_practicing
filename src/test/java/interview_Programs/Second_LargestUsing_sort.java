@@ -1,4 +1,4 @@
-package interview;
+package interview_Programs;
 
 import java.sql.Array;
 import java.util.Arrays;
