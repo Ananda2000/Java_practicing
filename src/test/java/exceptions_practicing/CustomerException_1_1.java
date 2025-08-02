@@ -7,7 +7,7 @@ public class CustomerException_1_1
 	public static void main(String [] args)
 	{
 		Scanner sc = new Scanner(System.in);
-		System.out.print("please enter the age -");
+		System.out.println("please enter the age -");
 		int a = sc.nextInt();
 	
 		if(a>60) 
@@ -27,7 +27,7 @@ public class CustomerException_1_1
 		*/
 		if(a<18)
 		{
-			throw new TooOldException("Too old exeption, Still you have time....");
+			throw new CustomeException_1("Too old exeption, Still you have time....");
 		}
 	}
 		

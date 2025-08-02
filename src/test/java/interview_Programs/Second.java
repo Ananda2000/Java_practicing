@@ -1,5 +1,5 @@
 // FIND THE 2ND LARGEST NUMBER IN ARRAYS WITHOUT INBUILD METHODS...
-package interview;
+package interview_Programs;
 
 public class Second 
 {

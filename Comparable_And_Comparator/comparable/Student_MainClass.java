@@ -8,8 +8,8 @@ public class Student_MainClass
 	public static void main(String [] args)
 	{
 		ArrayList<Student> al = new ArrayList<Student>();
-		al.add(new Student(15, "Ananda", 99));
-		al.add(new Student(23, "kumar", 22));
+		al.add(new Student(2, "Ananda", 99));
+		al.add(new Student(15, "kumar", 22));
 		al.add(new Student(5, "ganesh", 66));
 	
 		System.out.println("This is size "+al.size());

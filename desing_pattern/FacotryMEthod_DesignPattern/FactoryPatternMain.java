@@ -6,7 +6,7 @@ public class FactoryPatternMain
 	{
 		
 		
-		ShapeFactory ff =  ShapeFactory();
+		//ShapeFactory ff =  ShapeFactory();
 		//ff.getShapes("circle");
 	}
 
