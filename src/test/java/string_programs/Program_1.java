@@ -9,6 +9,6 @@ public class Program_1
 	{
 		String str ="This is 123";
 		
-		System.out.println(c);
+		System.out.println(str);
 	}
 }

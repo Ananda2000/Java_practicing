@@ -30,8 +30,15 @@
 	<classpathentry kind="src" path="Comparable_And_Comparator"/>
 	<classpathentry kind="src" path="conversion"/>
 	<classpathentry kind="src" path="Map_concept_practicing"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+	<classpathentry kind="src" path="REg_Ex"/>
+	<classpathentry kind="src" path="Inner_Classs"/>
+	<classpathentry kind="src" path="com.Practice.GC"/>
+	<classpathentry kind="src" path="Access_specifiers"/>
+	<classpathentry kind="src" path="com.Java.InterviewPrograms"/>
+	<classpathentry kind="src" path="com.java.Arrays"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
