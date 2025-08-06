@@ -16,7 +16,7 @@ public class P13
 			{
 				str2=str2+aa[i];
 			}
-			
+			System.out.println("This is testing");
 		}
 		
 		return str2;
