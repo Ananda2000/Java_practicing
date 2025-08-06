@@ -4,6 +4,7 @@ P3--Reverse only odd/ even words in given string..
 P4-- Palindrome check for given input.
 P5--SUM OF 2 LARGE NUMBERS.
 P6--Find and replace in String.
+P7--Multiply two strings.
 
 
 
@@ -11,3 +12,5 @@ P6--Find and replace in String.
 P10--Count Vowels and Consonants in a String..
 ------------------------MOST ASKED -----------------------MOST ASKED --------------
 P11 --Write a Java program to find the duplicate words and their number of occurrences in a string?
+P12 --Write a Java Program to remove all white spaces from a string with using replace()...
+P13 --Write a Java Program to remove all white spaces from a string without using replace()..
