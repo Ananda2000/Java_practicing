@@ -1,0 +1,31 @@
+---------STREAMS----------STREAMS----------STREAMS----------
+	IT is a class which is used to read and display data without storing .
+	In simple Steams are like SQL queries, helps in filtering the data and display.
+	
+-------METHODS/OPERATIONS IN STREAMS -------------------------------
+	The methods/operations in streams are divivded into 2 types.
+	1. INTERMEDIATE OPERATIONS.
+	2. TERMINAL OPERATIONS.
+	
+-----------1. INTERMEDIATE OPERATIONS.--------------------
+	1. map().--done.
+	2. filter():-done.
+	3. sorted():-done.
+	4. flatMap():
+	5. distinct():--DONE.
+	6. peek():
+
+-----------2. TERMINAL OPERATIONS.--------------------
+	1. collect():-done.
+	2. forEach(): -->done.
+	3. reduce():-done
+	4. count():-done.
+	5. findFirst():-done
+	6. allMatch():-done.
+	7. anyMatch():-done
+
+
+
+
+
+
