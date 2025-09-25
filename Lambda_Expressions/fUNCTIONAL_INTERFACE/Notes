@@ -1,0 +1,11 @@
+###################### FUNCTIONAL INTERFACE######################
+
+1.Consumer----------------------------------------------------------
+	There are 2 methods in cusumer interface.
+		1. accept().
+		2. andThen().
+
+
+2.Predicate
+3.Function 
+4.Supplier
