@@ -15,6 +15,6 @@ public class ConusmerAcceptMethod
 		aa.accept(10);
 		}
 	
-	}
+}
 
 

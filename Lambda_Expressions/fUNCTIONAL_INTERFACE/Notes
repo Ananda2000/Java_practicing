@@ -4,8 +4,20 @@
 	There are 2 methods in cusumer interface.
 		1. accept().
 		2. andThen().
+	https://www.geeksforgeeks.org/java/java-8-consumer-interface-in-java-with-examples/
+	https://www.youtube.com/watch?v=KwaCankObLQ
 
 
-2.Predicate
-3.Function 
-4.Supplier
+2.Function ----------------------------------------------------------
+		https://www.geeksforgeeks.org/java/function-interface-in-java/
+ 	2.1-apply()-done.
+	2.2-andThen()-
+	2.3-compose()-
+	2.4-identity()-
+3.Predicate----------------------------------------------------------
+		https://medium.com/@JavaFusion/predicate-in-java-8-a0f3481b7ea2
+		boolean test(T t); --> It contains only abstract method. it takes one parameter and returns boolean value.
+
+
+4.Supplier -----------------------
+		get() method , it is only one method.
